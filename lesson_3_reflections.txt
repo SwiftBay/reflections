@@ -1,1 +1,10 @@
 When would you want to create a new repository rather than keeping all your work local?
+
+Personally, I think creating a new repo is essential when substantial changes are to be made 
+on the file one is currently working on.
+
+Why might you always want to pull changes manually rather than having Git automatically
+staying up-to-date with your remote repository?
+
+Hmmmm, I guess having a version of my work saved locally is of great importance. One 
+might not always have reception (internet conncectivity)... 
