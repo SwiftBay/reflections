@@ -8,3 +8,13 @@ staying up-to-date with your remote repository?
 
 Hmmmm, I guess having a version of my work saved locally is of great importance. One 
 might not always have reception (internet conncectivity)... 
+
+Describe the difference between forks, clones and branches. When would you use one instead
+of another?
+
+Forks and clones are almost similar. Forks are copies of a repo made on github while clones
+copies of a repo made locally. On the other hand, branches are offsets/ideas that are
+established within a repository. These 3 concepts have different use cases. For example, 
+forks are used when reference/link to the original repo is required, while clones are used 
+when no reference is needed whereas Branches are used when a project has multiple features
+or collaborators.
